@@ -12,6 +12,10 @@
       "main": "src/DailyChallenges/day_2.mo",
       "type": "motoko"
     },
+    "day_3": {
+      "main": "src/DailyChallenges/day_3.mo",
+      "type": "motoko"
+    },
     "DailyChallenges_assets": {
       "dependencies": [
         "DailyChallenges"
