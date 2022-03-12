@@ -28,6 +28,10 @@
       "main": "src/DailyChallenges/day_5_stable.mo",
       "type": "motoko"
     },
+    "day_6": {
+      "main": "src/DailyChallenges/day_6.mo",
+      "type": "motoko"
+    },
     "DailyChallenges_assets": {
       "dependencies": [
         "DailyChallenges"
